@@ -79,3 +79,16 @@ background-image: url('images/crash.png');
   margin: 10px;
   background-color: white;
 }
+@media (max-width: 1400px) {
+  body {
+    text-align: center;
+  }
+  h1 {
+    font-size: 7rem;
+    margin: 10%;
+  }
+  .drum {
+    width: 300px;
+    height: 300px;
+  }
+}
